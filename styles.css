@@ -5,6 +5,16 @@
         padding: 0;
     }
     
+    .header {
+        margin: 0;
+        padding: .5em 2em;
+        align-items: center;
+        font-size: 6em;
+        background-color: rgba(132,14,2,.4);
+        color: rgba(28,28,66,1);
+        letter-spacing: .1em;
+    }
+
     .all {
         display: flex;
         flex-direction: row;
